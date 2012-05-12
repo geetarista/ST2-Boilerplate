@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[while (n > 0) {
+  cout << n << ", ";
+  --n;
+}]]></content>
+  <tabTrigger>while</tabTrigger>
+  <scope>source.c++</scope>
+  <description>C++ loop</description>
+</snippet>

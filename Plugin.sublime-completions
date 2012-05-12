@@ -1,0 +1,7 @@
+{
+  "scope": "source.ruby",
+  "completions": [
+    "some_keyword",
+    "another_keyword"
+  ]
+}

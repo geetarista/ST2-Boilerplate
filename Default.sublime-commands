@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "Awesome Command",
+    "command": "awesome_command"
+  },
+  {
+    "caption": "Another Command",
+    "command": "another_command"
+  }
+]
